@@ -4,6 +4,8 @@
 
 👋 Hi. I am Huy. I am a seasoned fullstack engineer with a passion for software development 🧑‍💻. I specialize in server applications, mobile applications, and desktop applications. With years of experience, I've worked on a variety of projects that span across multiple platforms and technologies.
 
+🚀 I have had the privilege of working at [Samsung](https://www.samsung.com/), where I spent several years researching and developing innovative software solutions. My time at Samsung has honed my skills in creating robust and efficient software systems, and I bring that expertise to every project I work on.
+
 ⚡️ I am obsessed with creating robust and efficient software solutions. I enjoy solving complex problems and building scalable systems that enhance user experiences. 
 
 ## Get in touch
