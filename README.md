@@ -14,11 +14,11 @@
 
 ✋ I love to chat about fullstack development, software architecture, mobile development, desktop applications, devops, and more. Following are some of useful links you can find me there:
 
-- **Facebook:** [facebook.com/trdtranduchuy](https://www.facebook.com/trdtranduchuy/)
-- **Linked In:** [linkedin.com/in/trdhuy](https://www.linkedin.com/in/trdhuy) (please send a note)
-- **Blog:** [trdhuy.github.io](https://trdhuy.github.io)
-- **Email:** <trdtranduchuy@gmail.com>
-- **GitHub:** [github.com/TrdHuy](https://github.com/TrdHuy)
+- **🌐 [Facebook](https://www.facebook.com/trdtranduchuy)**
+- **🔗 [LinkedIn](https://www.linkedin.com/in/trdhuy) (please send a note)**
+- **📝 [Blog](https://trdhuy.github.io)**
+- **📧 Email:** <trdtranduchuy@gmail.com>
+- **💻 [GitHub](https://github.com/TrdHuy)**
 
 ## Projects
 <img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,xBase,html,roff" alt="Top langs" />
