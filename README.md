@@ -16,7 +16,7 @@
 
 - **Facebook:** [facebook.com/trdtranduchuy](https://www.facebook.com/trdtranduchuy/)
 - **Linked In:** [linkedin.com/in/trdhuy](https://www.linkedin.com/in/trdhuy) (please send a note)
-- **Blog:** [huy.dev](https://trdhuy.github.io)
+- **Blog:** [trdhuy.github.io](https://trdhuy.github.io)
 - **Email:** <trdtranduchuy@gmail.com>
 - **GitHub:** [github.com/TrdHuy](https://github.com/TrdHuy)
 
