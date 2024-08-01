@@ -21,7 +21,7 @@
 - **GitHub:** [github.com/TrdHuy](https://github.com/TrdHuy)
 
 ## Projects
-<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,html" alt="Top langs" />
+<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,xBase,html,roff" alt="Top langs" />
 
 - **Server Applications:** Developed highly scalable and efficient server-side applications using Node.js, Python, and Java.
 - **Mobile Applications:** Built cross-platform mobile applications using Flutter and React Native.
