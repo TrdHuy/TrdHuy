@@ -6,6 +6,8 @@
 
 🚀 I have had the privilege of working at [Samsung](https://www.samsung.com/), where I spent several years researching and developing innovative software solutions. My time at Samsung has honed my skills in creating robust and efficient software systems, and I bring that expertise to every project I work on.
 
+📈 Throughout my career, I have managed and led the development of multiple software projects, ensuring they are delivered on time and meet high-quality standards. As a software architect, I have designed and implemented scalable and maintainable software architectures that drive business success.
+
 ⚡️ I am obsessed with creating robust and efficient software solutions. I enjoy solving complex problems and building scalable systems that enhance user experiences. 
 
 ## Get in touch
@@ -25,7 +27,8 @@
 - **Mobile Applications:** Built cross-platform mobile applications using Flutter and React Native.
 - **Desktop Applications:** Created user-friendly desktop applications with Electron and .NET.
 - **DevOps:** Implemented CI/CD pipelines and automated deployment processes using Jenkins and Docker.
-
+- **Project Management:** Managed the development of multiple software projects, ensuring timely delivery and adherence to quality standards.
+- **Software Architecture:** Designed and implemented scalable and maintainable software architectures.
 
 ## Conferences
 
