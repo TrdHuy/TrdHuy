@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=TrdHuy&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="TrdHuy's Github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=TrdHuy&show_icons=true&count_private=true&theme=transparent&include_all_commits=true" alt="TrdHuy's Github stats" />
 
 ## Welcome
 
