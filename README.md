@@ -19,13 +19,13 @@
 - **GitHub:** [github.com/TrdHuy](https://github.com/TrdHuy)
 
 ## Projects
+<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,html" alt="Top langs" />
 
 - **Server Applications:** Developed highly scalable and efficient server-side applications using Node.js, Python, and Java.
 - **Mobile Applications:** Built cross-platform mobile applications using Flutter and React Native.
 - **Desktop Applications:** Created user-friendly desktop applications with Electron and .NET.
 - **DevOps:** Implemented CI/CD pipelines and automated deployment processes using Jenkins and Docker.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,html" alt="Top langs" />
 
 ## Conferences
 
