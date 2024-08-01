@@ -14,10 +14,10 @@
 
 ✋ I love to chat about fullstack development, software architecture, mobile development, desktop applications, devops, and more. Following are some of useful links you can find me there:
 
-- **Twitter:** [twitter.com/huy_dev](https://twitter.com/huy_dev)
+- **Facebook:** [facebook.com/trdtranduchuy](https://www.facebook.com/trdtranduchuy/)
 - **Linked In:** [linkedin.com/in/trdhuy](https://www.linkedin.com/in/trdhuy) (please send a note)
-- **Blog:** [huy.dev](https://huy.dev)
-- **Email:** <hi@huy.dev>
+- **Blog:** [huy.dev](https://trdhuy.github.io)
+- **Email:** <trdtranduchuy@gmail.com>
 - **GitHub:** [github.com/TrdHuy](https://github.com/TrdHuy)
 
 ## Projects
