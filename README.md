@@ -60,10 +60,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TrdHuy&label=Profile%20views&color=0e75b6&style=flat" alt="TrdHuy" /> </p>
 
-<img alt="Coding" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=ArtWiz&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/TrdHuy/ArtWiz">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=ArtWiz&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=CyberServer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/TrdHuy/CyberServer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=CyberServer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-<img alt="Coding" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=CyberTool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-
+<a href="https://github.com/TrdHuy/CyberTool">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=CyberTool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
