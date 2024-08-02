@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=TrdHuy&show_icons=true&count_private=true&theme=transparent&include_all_commits=true" alt="TrdHuy's Github stats" />
+![TrdHuy's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TrdHuy\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&count_private=true\&rank_icon=github)
 
 ## Welcome
 
@@ -21,7 +21,7 @@
 - **💻 [GitHub](https://github.com/TrdHuy)**
 
 ## Projects
-<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,xBase,html,roff" alt="Top langs" />
+<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,xBase,html,roff&langs_count=5&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top langs" />
 
 - **Server Applications:** Developed highly scalable and efficient server-side applications using Node.js, Python, and Java.
 - **Mobile Applications:** Built cross-platform mobile applications using Flutter and React Native.
@@ -59,3 +59,11 @@
 👔 I have my Resume available at [cv.huy.dev](https://cv.huy.dev).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TrdHuy&label=Profile%20views&color=0e75b6&style=flat" alt="TrdHuy" /> </p>
+
+<img alt="Coding" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=ArtWiz&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
+<img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=CyberServer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
+<img alt="Coding" src="https://github-readme-stats.vercel.app/api/pin?username=TrdHuy&repo=CyberTool&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+
+
