@@ -10,6 +10,8 @@
 
 ⚡️ I am obsessed with creating robust and efficient software solutions. I enjoy solving complex problems and building scalable systems that enhance user experiences. 
 
+🎓 Additionally, I serve as an internal lecturer at Samsung, where I teach Android application programming. Through this role, I have the opportunity to share my knowledge and experience with colleagues, helping to cultivate the next generation of skilled developers within the company.
+
 ## Get in touch
 
 ✋ I love to chat about fullstack development, software architecture, mobile development, desktop applications, devops, and more. Following are some of useful links you can find me there:
@@ -23,10 +25,10 @@
 ## Projects
 <img align="right" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrdHuy&layout=compact&show_icons=true&count_private=true&theme=transparent&hide=javascript,xBase,html,roff&langs_count=5&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top langs" />
 
-- **Server Applications:** Developed highly scalable and efficient server-side applications using Node.js, Python, and Java.
-- **Mobile Applications:** Built cross-platform mobile applications using Flutter and React Native.
-- **Desktop Applications:** Created user-friendly desktop applications with Electron and .NET.
-- **DevOps:** Implemented CI/CD pipelines and automated deployment processes using Jenkins and Docker.
+- **Server Applications:** Developed highly scalable and efficient server-side applications using .NET framework.
+- **Mobile Applications:** Built cross-platform mobile applications using Xamari and Android framework.
+- **Desktop Applications:** Created user-friendly desktop applications with .NET framework.
+- **DevOps:** Implemented CI/CD pipelines and automated deployment processes using Github action.
 - **Project Management:** Managed the development of multiple software projects, ensuring timely delivery and adherence to quality standards.
 - **Software Architecture:** Designed and implemented scalable and maintainable software architectures.
 
