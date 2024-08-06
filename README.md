@@ -45,9 +45,9 @@
 
 ## Press
 
-- [TechPodcast #100: Fullstack Development Insights with Huy](https://changelog.com/techpodcast/100/) Fast-forward to [45:00](https://cdn.changelog.com/uploads/techpodcast/100/techpodcast-100.mp3#t=2700)
-- [Innovative Fullstack Solutions by Huy](https://techmagazine.com/innovative-fullstack-solutions-by-huy)
-- [Embracing Challenges in Software Development: Huy's Journey](https://devstory.net/post/100-huy-fullstack-engineer)
+- [One UI 6 update brings Auto Blocker feature to Samsung smartphones](https://www.reddit.com/r/Android/comments/17klie7/one_ui_6_update_brings_auto_blocker_feature_to/)
+- [Auto Blocker: Everything about Samsung security tool for Galaxy smartphones](https://www.business-standard.com/technology/tech-news/auto-blocker-everything-about-samsung-security-tool-for-galaxy-smartphones-123110100230_1.html)
+- [The Knox Journals: How Galaxy Invisibly Keeps You Safe at All Times](https://news.samsung.com/global/the-knox-journals-how-galaxy-invisibly-keeps-you-safe-at-all-times)
 
 ## Opportunities
 
